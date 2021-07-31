@@ -4,3 +4,11 @@
 q{
 	font-style: italic;
 }
+
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+#a-sentimental-romance > blockquote{
+	margin: 0;
+}
