@@ -5,10 +5,32 @@ q{
 	font-style: italic;
 }
 
+header{
+	margin: 1em;
+	text-align: center;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="dateline"]{
+	text-align: right;
+}
+
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 
-#a-sentimental-romance > blockquote{
-	margin: 0;
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
+#a-sentimental-romance > blockquote,
+#the-army-ensign > blockquote{
+	margin-left: 0;
+	margin-right: 0;
 }
