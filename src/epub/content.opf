@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/s-koteliansky_j-m-murray_stephen-graham_rosa-savory_leo-pasvolsky_douglas-ashby_the-living-age_b-guilbert-guerney_alexander-gagarine</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/s-koteliansky_j-m-murray_stephen-graham_rosa-savory_leo-pasvolsky_douglas-ashby_the-living-age_b-guilbert-guerney_alexander-gagarine_malcolm-w-davis</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -57,11 +57,13 @@
 		<dc:source>https://archive.org/details/sulamithprosepoe00kupr</dc:source>
 		<!-- The Piebald Horses -->
 		<dc:source>https://archive.org/details/sim_our-world_1923-04_3_1</dc:source>
+		<!-- The Little Red Christmas Tree -->
+		<dc:source>https://archive.org/details/sim_our-world_1923-12_4_3</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_short-fiction_s-koteliansky_j-m-murray_stephen-graham_rosa-savory_leo-pasvolsky_douglas-ashby_the-living-age_b-guilbert-guerney_alexander-gagarine</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_short-fiction_s-koteliansky_j-m-murray_stephen-graham_rosa-savory_leo-pasvolsky_douglas-ashby_the-living-age_b-guilbert-guerney_alexander-gagarine_malcolm-w-davis</meta>
 		<dc:creator id="author">Aleksandr Kuprin</dc:creator>
 		<meta property="file-as" refines="#author">Kuprin, Aleksandr</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
@@ -143,6 +145,7 @@
 		<item href="text/the-jewess.xhtml" id="the-jewess.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-laestrygonians.xhtml" id="the-laestrygonians.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-last-word.xhtml" id="the-last-word.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-little-red-christmas-tree.xhtml" id="the-little-red-christmas-tree.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-murderer.xhtml" id="the-murderer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-outrage.xhtml" id="the-outrage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-park-of-kings.xhtml" id="the-park-of-kings.xhtml" media-type="application/xhtml+xml"/>
@@ -204,6 +207,7 @@
 		<itemref idref="le-coq-dor.xhtml"/>
 		<itemref idref="sulamith.xhtml"/>
 		<itemref idref="the-piebald-horses.xhtml"/>
+		<itemref idref="the-little-red-christmas-tree.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
