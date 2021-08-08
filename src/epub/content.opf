@@ -104,24 +104,34 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-clump-of-lilacs.xhtml" id="a-clump-of-lilacs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-legend.xhtml" id="a-legend.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-sentimental-romance.xhtml" id="a-sentimental-romance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-slav-soul.xhtml" id="a-slav-soul.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/allez.xhtml" id="allez.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-evening-guest.xhtml" id="an-evening-guest.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-insult.xhtml" id="an-insult.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/anathema.xhtml" id="anathema.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/autumn-flowers.xhtml" id="autumn-flowers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/black-fog.xhtml" id="black-fog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/cain.xhtml" id="cain.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/captain-ribnikov.xhtml" id="captain-ribnikov.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/demir-kaya.xhtml" id="demir-kaya.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dogs-happiness.xhtml" id="dogs-happiness.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/easter-day.xhtml" id="easter-day.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/emerald.xhtml" id="emerald.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hamlet.xhtml" id="hamlet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/happiness.xhtml" id="happiness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-i-became-an-actor.xhtml" id="how-i-became-an-actor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/le-coq-dor.xhtml" id="le-coq-dor.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/measles.xhtml" id="measles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mechanical-justice.xhtml" id="mechanical-justice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sasha.xhtml" id="sasha.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sulamith.xhtml" id="sulamith.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tempting-providence.xhtml" id="tempting-providence.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-army-ensign.xhtml" id="the-army-ensign.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bracelet-of-garnets.xhtml" id="the-bracelet-of-garnets.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-elephant.xhtml" id="the-elephant.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-garden-of-the-holy-virgin.xhtml" id="the-garden-of-the-holy-virgin.xhtml" media-type="application/xhtml+xml"/>
@@ -130,6 +140,7 @@
 		<item href="text/the-jewess.xhtml" id="the-jewess.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-laestrygonians.xhtml" id="the-laestrygonians.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-last-word.xhtml" id="the-last-word.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-murderer.xhtml" id="the-murderer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-outrage.xhtml" id="the-outrage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-park-of-kings.xhtml" id="the-park-of-kings.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-picture.xhtml" id="the-picture.xhtml" media-type="application/xhtml+xml"/>
@@ -166,7 +177,6 @@
 		<itemref idref="cain.xhtml"/>
 		<itemref idref="the-bracelet-of-garnets.xhtml"/>
 		<itemref idref="the-horse-thieves.xhtml"/>
-		<itemref idref="the-jewess.xhtml"/>
 		<itemref idref="anathema.xhtml"/>
 		<itemref idref="the-laestrygonians.xhtml"/>
 		<itemref idref="an-insult.xhtml"/>
@@ -175,6 +185,18 @@
 		<itemref idref="a-legend.xhtml"/>
 		<itemref idref="demir-kaya.xhtml"/>
 		<itemref idref="the-garden-of-the-holy-virgin.xhtml"/>
+		<itemref idref="sasha.xhtml"/>
+		<itemref idref="a-sentimental-romance.xhtml"/>
+		<itemref idref="the-army-ensign.xhtml"/>
+		<itemref idref="autumn-flowers.xhtml"/>
+		<itemref idref="emerald.xhtml"/>
+		<itemref idref="happiness.xhtml"/>
+		<itemref idref="how-i-became-an-actor.xhtml"/>
+		<itemref idref="allez.xhtml"/>
+		<itemref idref="black-fog.xhtml"/>
+		<itemref idref="the-murderer.xhtml"/>
+		<itemref idref="measles.xhtml"/>
+		<itemref idref="the-jewess.xhtml"/>
 		<itemref idref="le-coq-dor.xhtml"/>
 		<itemref idref="sulamith.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
