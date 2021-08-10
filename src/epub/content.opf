@@ -59,6 +59,8 @@
 		<dc:source>https://archive.org/details/sim_our-world_1923-04_3_1</dc:source>
 		<!-- The Little Red Christmas Tree -->
 		<dc:source>https://archive.org/details/sim_our-world_1923-12_4_3</dc:source>
+		<!-- Gambrinus and Other Stories -->
+		<dc:source>https://catalog.hathitrust.org/Record/001059695</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>

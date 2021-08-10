@@ -37,3 +37,9 @@ footer{
 	margin-left: 0;
 	margin-right: 0;
 }
+
+#roach-hole > blockquote:first-of-type img{
+	display: block;
+	margin: 0 auto;
+	width: 1em;
+}
