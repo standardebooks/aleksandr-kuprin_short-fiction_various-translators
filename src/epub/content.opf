@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/s-koteliansky_j-m-murray_stephen-graham_rosa-savory_leo-pasvolsky_douglas-ashby_the-living-age_b-guilbert-guerney_alexander-gagarine_malcolm-w-davis</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/s-koteliansky_j-m-murry_stephen-graham_rosa-savory-graham_leo-pasvolsky_douglas-ashby_the-living-age_b-guilbert-guerney_alexander-gagarine_malcolm-w-davis</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -36,7 +36,8 @@
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -64,40 +65,96 @@
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_short-fiction_s-koteliansky_j-m-murray_stephen-graham_rosa-savory_leo-pasvolsky_douglas-ashby_the-living-age_b-guilbert-guerney_alexander-gagarine_malcolm-w-davis</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_short-fiction_s-koteliansky_j-m-murry_stephen-graham_rosa-savory-graham_leo-pasvols</meta>
 		<dc:creator id="author">Aleksandr Kuprin</dc:creator>
 		<meta property="file-as" refines="#author">Kuprin, Aleksandr</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Aleksandr Ivanovich Kuprin</meta>
+		<meta property="alternate-script" refines="#author" xml:lang="ru">Алекса́ндр Ива́нович Купри́н</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Aleksandr_Kuprin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50058266</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50058266</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">J. M. Murray</dc:contributor>
-		<meta property="file-as" refines="#translator">Murray, J. M.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-1">S. Koteliansky</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Koteliansky, S.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-1">Samuel Solomonovich Koteliansky</meta>
+		<meta property="alternate-script" refines="#translator-1" xml:lang="ru">Самуил Соломонович Котелянский</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Samuel_Solomonovich_Koteliansky</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n86031769</meta>
+		<meta property="display-seq" refines="#translator-1">1</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-2">J. M. Murry</dc:contributor>
+		<meta property="file-as" refines="#translator-2">Murry, J. M.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-2">John Middleton Murry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/John_Middleton_Murry</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n80067175</meta>
+		<meta property="display-seq" refines="#translator-2">2</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-3">Stephen Graham</dc:contributor>
+		<meta property="file-as" refines="#translator-3">Graham, Stephen</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Stephen_Graham_(author)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n50034885</meta>
+		<meta property="display-seq" refines="#translator-3">3</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-4">Rosa Savory Graham</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Graham, Rosa Savory</meta>
+		<meta property="display-seq" refines="#translator-4">4</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-5">Leo Pasvolsky</dc:contributor>
+		<meta property="file-as" refines="#translator-5">Pasvolsky, Leo</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-5">https://en.wikipedia.org/wiki/Leo_Pasvolsky</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n50050648</meta>
+		<meta property="display-seq" refines="#translator-5">5</meta>
+		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-6">Douglas Ashby</dc:contributor>
+		<meta property="file-as" refines="#translator-6">Ashby, Douglas</meta>
+		<meta property="display-seq" refines="#translator-6">6</meta>
+		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-7">The Living Age</dc:contributor>
+		<meta property="file-as" refines="#translator-7">Living Age, The</meta>
+		<meta property="display-seq" refines="#translator-7">7</meta>
+		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-8">B. Guilbert Guerney</dc:contributor>
+		<meta property="file-as" refines="#translator-8">Guerney, B. Guilbert</meta>
+		<meta property="se:name.person.full-name" refines="#translator-8">Bernard Guilbert Guerney</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/n83227336</meta>
+		<meta property="display-seq" refines="#translator-8">8</meta>
+		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-9">Alexander Gagarine</dc:contributor>
+		<meta property="file-as" refines="#translator-9">Gagarine, Alexander</meta>
+		<meta property="display-seq" refines="#translator-9">9</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-10">Malcolm W. Davis</dc:contributor>
+		<meta property="file-as" refines="#translator-10">Davis, Malcolm W.</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n92055929</meta>
+		<meta property="display-seq" refines="#translator-10">10</meta>
+		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Charlie Howard</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">David Garcia</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Garcia, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-2">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-3">Charlie Howard</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Howard, Charlie</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
