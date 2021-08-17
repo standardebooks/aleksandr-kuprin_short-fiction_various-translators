@@ -16,7 +16,8 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="dateline"]{
+[epub|type~="se:diary.dateline"],
+[epub|type~="se:letter.dateline"]{
 	text-align: right;
 }
 
@@ -38,7 +39,6 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
@@ -67,8 +67,7 @@ p span.i1{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
+[epub|type~="epigraph"] em{
 	font-style: normal;
 }
 
@@ -77,10 +76,6 @@ p span.i1{
 	font-style: normal;
 	font-variant: small-caps;
 }
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
-}
 /* End all epigraphs */
 
 header [epub|type~="epigraph"] cite{
@@ -88,29 +83,22 @@ header [epub|type~="epigraph"] cite{
 }
 
 /* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
-section > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *,
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
 /* End epigraphs in section headers */
 
 #a-sentimental-romance > blockquote,
-#the-army-ensign > blockquote,
+#the-army-ensign-1 > blockquote,
 #autumn-flowers > blockquote{
 	margin-left: 0;
 	margin-right: 0;
