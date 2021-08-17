@@ -42,7 +42,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<!-- The River of Life, and Other Stories -->
 		<dc:source>https://www.gutenberg.org/ebooks/58406</dc:source>
 		<dc:source>https://archive.org/details/riveroflifeother00kupr</dc:source>
@@ -53,8 +53,8 @@
 		<dc:source>https://archive.org/details/braceletofgarnet00kupr</dc:source>
 		<!-- Sasha -->
 		<dc:source>https://archive.org/details/sashabyalexander00kuprrich</dc:source>
-		<!-- Le Coq d’Or -->
-		<dc:source>https://hdl.handle.net/2027/inu.32000000706814?urlappend=%3Bseq=663</dc:source>
+		<!-- Le Coq d’Or (https://hdl.handle.net/2027/inu.32000000706814?urlappend=%3Bseq=663) -->
+		<dc:source>https://catalog.hathitrust.org/Record/006792296</dc:source>
 		<!-- Sulamith -->
 		<dc:source>https://www.gutenberg.org/ebooks/33444</dc:source>
 		<dc:source>https://archive.org/details/sulamithprosepoe00kupr</dc:source>

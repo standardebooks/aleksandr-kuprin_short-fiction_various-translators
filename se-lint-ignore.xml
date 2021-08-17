@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-laestrygonians.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>Ship’s name is partially obscured.</reason>
+		</ignore>
+	</file>
+	<file path="sulamith.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialogue correctly split over multiple lines.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
