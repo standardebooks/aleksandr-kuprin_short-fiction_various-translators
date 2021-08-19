@@ -120,7 +120,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/n83227336</meta>
 		<meta property="display-seq" refines="#translator-8">8</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
+		<meta property="se:role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-9">Alexander Gagarine</dc:contributor>
 		<meta property="file-as" refines="#translator-9">Gagarine, Alexander</meta>
 		<meta property="display-seq" refines="#translator-9">9</meta>
