@@ -15,6 +15,28 @@ footer{
 	text-align: right;
 }
 
+figure{
+	break-inside: avoid;
+	margin: 1em auto;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
+figcaption p + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:diary-entry"] + blockquote,
 [epub|type~="z3998:letter"] + blockquote{
 	margin-top: 2em;
