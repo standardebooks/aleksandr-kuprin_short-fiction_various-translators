@@ -175,7 +175,6 @@
 		<item href="text/a-slav-soul.xhtml" id="a-slav-soul.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/allez.xhtml" id="allez.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-evening-guest.xhtml" id="an-evening-guest.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-insult.xhtml" id="an-insult.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/anathema.xhtml" id="anathema.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/autumn-flowers.xhtml" id="autumn-flowers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/black-fog.xhtml" id="black-fog.xhtml" media-type="application/xhtml+xml"/>
@@ -253,7 +252,6 @@
 		<itemref idref="the-horse-thieves.xhtml"/>
 		<itemref idref="anathema.xhtml"/>
 		<itemref idref="the-laestrygonians.xhtml"/>
-		<itemref idref="an-insult.xhtml"/>
 		<itemref idref="the-park-of-kings.xhtml"/>
 		<itemref idref="an-evening-guest.xhtml"/>
 		<itemref idref="a-legend.xhtml"/>
