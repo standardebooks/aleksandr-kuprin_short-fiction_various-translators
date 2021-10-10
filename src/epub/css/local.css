@@ -33,8 +33,8 @@ figcaption{
 	margin: 1em;
 }
 
-figcaption p + p{
-	text-indent: 0;
+figcaption i{
+	font-style: normal;
 }
 
 [epub|type~="z3998:diary-entry"] + blockquote,
