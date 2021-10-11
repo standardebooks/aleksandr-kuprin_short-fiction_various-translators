@@ -6,10 +6,6 @@ q{
 	font-style: italic;
 }
 
-header{
-	text-align: center;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -132,9 +128,7 @@ article > header [epub|type~="epigraph"]{
 }
 /* End epigraphs in section headers */
 
-#a-sentimental-romance > blockquote,
-#the-army-ensign-1 > blockquote,
-#autumn-flowers > blockquote{
+#the-army-ensign-1 > blockquote{
 	margin-left: 0;
 	margin-right: 0;
 }
