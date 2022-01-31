@@ -40,8 +40,8 @@ figcaption i{
 
 [epub|type~="se:diary.dateline"],
 [epub|type~="se:letter.dateline"]{
-	text-align: right;
 	font-style: italic;
+	text-align: right;
 }
 
 [epub|type~="z3998:salutation"],
@@ -103,9 +103,9 @@ p span.i1{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 /* End all epigraphs */
 
