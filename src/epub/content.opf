@@ -38,6 +38,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Aleksandr Kuprin’s translated short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/aleksandr-kuprin"&gt;Aleksandr Kuprin&lt;/a&gt; was one of the most celebrated Russian authors of the early twentieth century, writing both novels (including his most famous, &lt;a href="https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin"&gt;&lt;i&gt;The Duel&lt;/i&gt;&lt;/a&gt;) and short fiction. Along with &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/ivan-bunin"&gt;Bunin&lt;/a&gt;, he did much to draw attention away from the “great Russian novel” and to make short fiction popular. His work is famed for its descriptive qualities and sense of place, but it always centers on the souls of the stories’ subjects. The themes of his work are wide and varied, and include biblical parables, bittersweet romances, spy fiction, and farce, among many others. In 1920, under some political pressure, Kuprin left Russia for France, and his later work primarily adopts his new homeland for the setting.&lt;/p&gt;
