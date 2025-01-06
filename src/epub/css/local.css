@@ -138,3 +138,7 @@ article > header [epub|type~="epigraph"]{
 	margin: 0 auto;
 	width: 1em;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
