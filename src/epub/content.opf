@@ -66,7 +66,7 @@
 		<dc:source>https://archive.org/details/sim_our-world_1923-12_4_3</dc:source>
 		<!-- Gambrinus and Other Stories -->
 		<dc:source>https://catalog.hathitrust.org/Record/001059695</dc:source>
-		<meta property="se:word-count">284025</meta>
+		<meta property="se:word-count">280102</meta>
 		<meta property="se:reading-ease.flesch">71.95</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aleksandr-kuprin_short-fiction_various-translators</meta>
 		<dc:creator id="author">Aleksandr Kuprin</dc:creator>
