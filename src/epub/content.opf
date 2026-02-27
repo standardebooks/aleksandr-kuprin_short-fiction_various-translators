@@ -82,54 +82,44 @@
 		<meta property="alternate-script" refines="#translator-1" xml:lang="ru">Самуил Соломонович Котелянский</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Samuel_Solomonovich_Koteliansky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n86031769</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">J. M. Murry</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Murry, J. M.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-2">John Middleton Murry</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/John_Middleton_Murry</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n80067175</meta>
-		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">Stephen Graham</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Graham, Stephen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Stephen_Graham_(author)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n50034885</meta>
-		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">Rosa Savory Graham</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Graham, Rosa Savory</meta>
-		<meta property="display-seq" refines="#translator-4">4</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">Leo Pasvolsky</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Pasvolsky, Leo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-5">https://en.wikipedia.org/wiki/Leo_Pasvolsky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n50050648</meta>
-		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">Douglas Ashby</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Ashby, Douglas</meta>
-		<meta property="display-seq" refines="#translator-6">6</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-7">The Living Age</dc:contributor>
 		<meta property="file-as" refines="#translator-7">Living Age, The</meta>
-		<meta property="display-seq" refines="#translator-7">7</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-8">B. Guilbert Guerney</dc:contributor>
 		<meta property="file-as" refines="#translator-8">Guerney, B. Guilbert</meta>
 		<meta property="se:name.person.full-name" refines="#translator-8">Bernard Guilbert Guerney</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/n83227336</meta>
-		<meta property="display-seq" refines="#translator-8">8</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-9">Alexander Gagarine</dc:contributor>
 		<meta property="file-as" refines="#translator-9">Gagarine, Alexander</meta>
-		<meta property="display-seq" refines="#translator-9">9</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-10">Malcolm W. Davis</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Davis, Malcolm W.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n92055929</meta>
-		<meta property="display-seq" refines="#translator-10">10</meta>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Boris Grigoriev</dc:contributor>
 		<meta property="alternate-script" refines="#artist" xml:lang="ru">Бори́с Дми́триевич</meta>
