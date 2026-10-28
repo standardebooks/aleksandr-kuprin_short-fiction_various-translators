@@ -123,6 +123,7 @@
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-10">Malcolm W. Davis</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Davis, Malcolm W.</meta>
+		<meta property="schema:alternateName" refines="#translator-10">Malcolm Waters Davis</meta>
 		<link href="https://id.loc.gov/authorities/names/n92055929.html" refines="#translator-10" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Boris Grigoriev</dc:contributor>
