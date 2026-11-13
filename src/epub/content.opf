@@ -84,7 +84,7 @@
 		<meta property="file-as" refines="#translator-1">Koteliansky, S.</meta>
 		<meta property="schema:alternateName" refines="#translator-1">Samuel Solomonovich Koteliansky</meta>
 		<meta property="alternate-script" refines="#translator-1">Самуил Соломонович Котелянский</meta>
-		<link href="https://en.wikipedia.org/wiki/Samuel_Solomonovich_Koteliansky" refines="#translator-1" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/S._S._Koteliansky" refines="#translator-1" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n86031769.html" refines="#translator-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">J. M. Murry</dc:contributor>
